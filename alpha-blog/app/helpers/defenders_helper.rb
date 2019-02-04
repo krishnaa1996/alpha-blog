@@ -1,0 +1,2 @@
+module DefendersHelper
+end
